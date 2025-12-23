@@ -1,0 +1,14 @@
+*.iml
+.DS_Store
+.cxx
+.externalNativeBuild
+.gradle
+.idea/
+build/
+captures/
+debug/
+gradle.properties
+gradle/wrapper/
+gradlew*
+local.properties
+release/
